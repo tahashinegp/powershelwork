@@ -12,8 +12,8 @@
 	<files>
 		<file src="chocolateyinstall.ps1" target="tools" />
 		<file src="destinationServers.json" target="bin" />
-		<!--<file src="nuveen.ebusiness.api\**" target="Nuveen.EBusiness.API" />-->
-		<file src="nuveen.ebusiness.contactus.api\**" target="Nuveen.EBusiness.ContactUs.API"/>
-		<file src="nuveen.ebusiness.nuveendata.api\**" target="Nuveen.EBusiness.NuveenData.API"/>
+		<!--<file src="ebiz.ebusiness.api\**" target="EBIZ.EBusiness.API" />-->
+		<file src="ebiz.ebusiness.contactus.api\**" target="EBIZ.EBusiness.ContactUs.API"/>
+		<file src="ebiz.ebusiness.nuveendata.api\**" target="EBIZ.EBusiness.NuveenData.API"/>
 	</files>
 </package>
